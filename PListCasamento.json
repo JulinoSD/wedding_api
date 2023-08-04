@@ -17,42 +17,49 @@
 			"noiva" : 
 			[
 				{
+					"musica": "marcha nupcial",
+					"cantor": "Felix Mendelssohn",
+					"link": "https://www.youtube.com/watch?v=jI3AfkqFOmM"
+				},
+				{
 					"musica": "Perfect",
 					"cantor": "Ed Sheeran & Beyonce"
-					}
+				}
 			]
 		},
 		{
 			"padrinhosEConvidados": 
 				[
 					{
-						"padrinhos": [
+						"padrinhos": 
 							{
-								"musica",
-								"cantor",
-							}
-						],
-						"placas",
-						"florista",
-						"segurança_alianca",
+								"musica": "You're still the one",
+								"cantor": "Shania Twain"
+							},
+						"placas": {
+							"musica": "A Thousand Years",
+							"artista": "Christiana Perri"
+						},
+						"florista": "a mesma musica da noiva",
+						"segurança_alianca": {
+							"musica":"Instrumental missao impossivel"
+						},
+						"aliancas": {
+							"musica": "Aleluia versao para casamento",
+							"artista": "Giseli Almeida"
+						}
 					}
 				]
 			},
 		{
-			"saidas": [
+			"saidas": 
 				{
-					"saida_noivos": {
-						"musica",
-						"cantor",
+					"saida_casal": {
+						"musica": "caneta e papel",
+						"cantor": "Os Arrais"
 					}
-				},
-				{
-					"saida_padrinhos": {
-						"musica",
-						"cantor",
-					}
-				},
-			]
+				}
+						
 			}
 		
 		],
@@ -68,7 +75,10 @@
 		},
 		{
 			"musica_casal":
-				{"musica","cantor"}
+				{
+					"musica": "minha",
+					"autor": "Gerilson Insrael"
+				}
 		},
 		{
 			"celebracao_geral": {
@@ -92,7 +102,7 @@
 					{
 						"musica": "Lolita", 
 						"artista": "Grace Evora"
-					},{},{},{},{},{},{},{},],
+					},{},{},{},{},{},{},{}],
 				"kuduro": [
 					{
 						"musica": "Sim",
