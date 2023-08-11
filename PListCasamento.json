@@ -1,21 +1,19 @@
 {
 	"marcha": [
 		{
-			"noivo" : 
-			[ 
+			"noivo": [
 				{
-					"musica" : "Vulindlela",
-					"Cantor" : "Brenda Fassie"
-					},
+					"musica": "Vulindlela",
+					"Cantor": "Brenda Fassie"
+				},
 				{
-					"musica" : "Who is your guy",
-					"Cantor" : "Spyro & Tiwa Savage"
-					}
-				]
+					"musica": "Who is your guy",
+					"Cantor": "Spyro & Tiwa Savage"
+				}
+			]
 		},
 		{
-			"noiva" : 
-			[
+			"noiva": [
 				{
 					"musica": "marcha nupcial",
 					"cantor": "Felix Mendelssohn",
@@ -28,57 +26,50 @@
 			]
 		},
 		{
-			"padrinhosEConvidados": 
-				[
-					{
-						"padrinhos": 
-							{
-								"musica": "You're still the one",
-								"cantor": "Shania Twain"
-							},
-						"placas": {
-							"musica": "A Thousand Years",
-							"artista": "Christiana Perri"
-						},
-						"florista": "a mesma musica da noiva",
-						"segurança_alianca": {
-							"musica":"Instrumental missao impossivel"
-						},
-						"aliancas": {
-							"musica": "Aleluia versao para casamento",
-							"artista": "Giseli Almeida"
-						}
-					}
-				]
-			},
-		{
-			"saidas": 
+			"padrinhosEConvidados": [
 				{
-					"saida_casal": {
-						"musica": "caneta e papel",
-						"cantor": "Os Arrais"
+					"padrinhos": {
+						"musica": "You're still the one",
+						"cantor": "Shania Twain"
+					},
+					"placas": {
+						"musica": "A Thousand Years",
+						"artista": "Christiana Perri"
+					},
+					"florista": "a mesma musica da noiva",
+					"segurança_alianca": {
+						"musica": "Instrumental missao impossivel"
+					},
+					"aliancas": {
+						"musica": "Aleluia versao para casamento",
+						"artista": "Giseli Almeida"
 					}
 				}
-						
-			}
-		
-		],
-	"celebracao": [
-		{
-			"musica_refeicao":
-				[
-					{
-						"musica": "Uthando",
-						"cantor": "DJ Ngwazi & Master KG"
-					}
-				]
+			]
 		},
 		{
-			"musica_casal":
-				{
-					"musica": "minha",
-					"autor": "Gerilson Insrael"
+			"saidas": {
+				"saida_casal": {
+					"musica": "caneta e papel",
+					"cantor": "Os Arrais"
 				}
+			}
+		}
+	],
+	"celebracao": [
+		{
+			"musica_refeicao": [
+				{
+					"musica": "Uthando",
+					"cantor": "DJ Ngwazi & Master KG"
+				}
+			]
+		},
+		{
+			"musica_casal": {
+				"musica": "minha",
+				"autor": "Gerilson Insrael"
+			}
 		},
 		{
 			"celebracao_geral": {
@@ -92,149 +83,197 @@
 						"artista": "Irmãos Almeida"
 					},
 					{
-						"musica": "O tempo passa", 
+						"musica": "O tempo passa",
 						"artista": "Irmãos Verdades"
 					},
 					{
-						"musica": "Zaliki awa", 
+						"musica": "Zaliki awa",
 						"artista": "Gatho Beevans"
 					},
 					{
-						"musica": "Lolita", 
+						"musica": "Lolita",
 						"artista": "Grace Evora"
-					},{},{},{},{},{},{},{}],
+					},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
 				"kuduro": [
 					{
 						"musica": "Sim",
 						"artista": "Nerú Americano"
 					},
-					{},{},{},{},{},{},{},{},{},{},{},
-					],
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
 				"semba": [
 					{
 						"musica": "Kalumba",
 						"artista": "Yuri da Cunha & paulo Flores"
 					},
 					{
-						"musica": "Ngongo", 
+						"musica": "Ngongo",
 						"artista": "Eddy Tussa"
 					},
 					{
-						"musica": "Tradição perfeita", 
+						"musica": "Tradição perfeita",
 						"artista": "Filho do Zua"
 					},
 					{
-						"musica": "Kakinhento", 
+						"musica": "Kakinhento",
 						"artista": "Yuri da Cunha"
-					},{},{},{},{},{},{},{},{}],
-				"house": [{},{},{},{},{},{},{},{},{},{},{},{}],
-				"africanBeats": 
-					[
-						{
-							"musica": "Buga",
-							"artista": "Kizz Daniel & Tekno"
-						},
-						{ 
-							"musica": "Ghanama",
-							"artista": "Makhadzi ft Prince Benga"
-						},
-						{ 
-							"musica": "Waah",
-							"artista": "Diamond Platinumz ft Koffi Olomide"
-						},
-						{
-							"musica": "Jerusalema", 
-							"artista":"Master KG ft Nomcebo"
-						},
-						{
-							"musica": "Calm Down",
-							"artista": "Rema"
-						},
-						{
-							"musica": "Aye Kuwa",
-							"artista": "King Monada Limpopo"
-						},
-						{
-							"musica": "Rihanna",
-							"artista": "Awilo Longomba & Yemi Alade"
-						},
-						{
-							"musica": "Ma yellow bones",
-							"artista": "Makhadzi"
-						},
-						{
-							"musica": "Ngiyazifela Ngawe",
-							"artista": "Sdala B e Paige"
-						},						
-						{
-							"musica": "Sweetie",
-							"artista": "Heavy K ft Nokwazi",
-						},
-						{
-							"musica": "Ojola Lemang?",
-							"artista": "Double Trouble ft Maxy Khoisan"
-						},
-						{
-							"musica":"Thandolwami Nguwe",
-							"artista": "Mr Brown ft Makhadzi e Zanda Zakuza"
-						},
-						{
-							"musica": "Collabo",
-							"artista": "PSquare"
-						},
-						{
-							"musica": "Who Is Your Guy",
-							"artista": "Spyro & Tiwa Savage"
-						},
-						{
-							"musica": "Particular",
-							"artista": "Major lazer & DJ Maphorisa ft Nasty C"
-						},
-						{
-							"musica": "Yope Remix",
-							"artista": "Innoss'B ft Diamond Platinumz"
-						},
-						{
-							"musica":"Skeleton Move", 
-							"artista":"Master KG ft Zanda Zakuza"
-						},
-						{
-							"musica": "Wayawaya",
-							"artista": "Master KG ft Team Mosha",
-						},
-						{
-							"musica": "Sofa Silahlane", 
-							"artista": "Wanitwa Mos, Master KG & Lowsheen"
-						},
-						{
-							"musica": "Rosalina Remix", 
-							"artista": "BM ft Awilo Longomba"
-						},
-						{
-							"musica": "Esopi",
-							"artista": "Awilo Longomba & tiwa Savage"
-						},
-						{
-							"musica": "Tshwarelela Pelo Yaka",
-							"artista": "Master KG"
-						},
-						{
-							"musica": "Gatê le coin",
-							"artista": "Awilo Longomba"
-						}
-					]
+					},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
+				"house": [
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
+				"africanBeats": [
+					{
+						"musica": "Buga",
+						"artista": "Kizz Daniel & Tekno"
+					},
+					{
+						"musica": "Inama",
+						"artista": "Diamond Platinumz ft Fally Ipupa"
+					},
+					{
+						"musica": "Ghanama",
+						"artista": "Makhadzi ft Prince Benga"
+					},
+					{
+						"musica": "Waah",
+						"artista": "Diamond Platinumz ft Koffi Olomide"
+					},
+					{
+						"musica": "Jerusalema",
+						"artista": "Master KG ft Nomcebo"
+					},
+					{
+						"musica": "Calm Down",
+						"artista": "Rema"
+					},
+					{
+						"musica": "Aye Kuwa",
+						"artista": "King Monada Limpopo"
+					},
+					{
+						"musica": "Rihanna",
+						"artista": "Awilo Longomba & Yemi Alade"
+					},
+					{
+						"musica": "Ma yellow bones",
+						"artista": "Makhadzi"
+					},
+					{
+						"musica": "Ngiyazifela Ngawe",
+						"artista": "Sdala B e Paige"
+					},
+					{
+						"musica": "Sweetie",
+						"artista": "Heavy K ft Nokwazi"
+					},
+					{
+						"musica": "Ojola Lemang?",
+						"artista": "Double Trouble ft Maxy Khoisan"
+					},
+					{
+						"musica": "Thandolwami Nguwe",
+						"artista": "Mr Brown ft Makhadzi e Zanda Zakuza"
+					},
+					{
+						"musica": "Collabo",
+						"artista": "PSquare"
+					},
+					{
+						"musica": "Who Is Your Guy",
+						"artista": "Spyro & Tiwa Savage"
+					},
+					{
+						"musica": "Particular",
+						"artista": "Major lazer & DJ Maphorisa ft Nasty C"
+					},
+					{
+						"musica": "Yope Remix",
+						"artista": "Innoss'B ft Diamond Platinumz"
+					},
+					{
+						"musica": "Skeleton Move",
+						"artista": "Master KG ft Zanda Zakuza"
+					},
+					{
+						"musica": "Wayawaya",
+						"artista": "Master KG ft Team Mosha"
+					},
+					{
+						"musica": "Sofa Silahlane",
+						"artista": "Wanitwa Mos, Master KG & Lowsheen"
+					},
+					{
+						"musica": "Rosalina Remix",
+						"artista": "BM ft Awilo Longomba"
+					},
+					{
+						"musica": "Esopi",
+						"artista": "Awilo Longomba & tiwa Savage"
+					},
+					{
+						"musica": "Tshwarelela Pelo Yaka",
+						"artista": "Master KG"
+					},
+					{
+						"musica": "Gatê le coin",
+						"artista": "Awilo Longomba"
+					}
+				]
 			}
 		}
 	],
-	"knowlegs_greetings":
-		[
-			{
-				"palavra_agradecimento": "casal"
-			},
-			{
-				"musica": "Buga",
-				"artista": "Kizz Daniel & Tekno"
-			}
-		]
-
+	"knowlegs_greetings": [
+		{
+			"palavra_agradecimento": "casal"
+		},
+		{
+			"musica": "Buga",
+			"artista": "Kizz Daniel & Tekno"
+		}
+	],
+	"photos": [
+		{
+			"url": "",
+			"titule": "",
+			"description": ""
+		}
+	]
 }
