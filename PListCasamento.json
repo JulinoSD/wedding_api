@@ -4,11 +4,13 @@
 			"noivo": [
 				{
 					"musica": "Vulindlela",
-					"Cantor": "Brenda Fassie"
+					"Cantor": "Brenda Fassie",
+					"link": "https://www.youtube.com/watch?v=JB-OGtSEc64"
 				},
 				{
 					"musica": "Who is your guy",
-					"Cantor": "Spyro & Tiwa Savage"
+					"Cantor": "Spyro & Tiwa Savage",
+					"link": "https://www.youtube.com/watch?v=OHnXY9F7m9c"
 				}
 			]
 		},
@@ -21,7 +23,8 @@
 				},
 				{
 					"musica": "Perfect",
-					"cantor": "Ed Sheeran & Beyonce"
+					"cantor": "Ed Sheeran & Beyounce",
+					"link": "https://www.youtube.com/watch?v=817P8W8-mGE"
 				}
 			]
 		},
@@ -30,19 +33,26 @@
 				{
 					"padrinhos": {
 						"musica": "You're still the one",
-						"cantor": "Shania Twain"
+						"cantor": "Shania Twain",
+						"link": "https://www.youtube.com/watch?v=KNZH-emehxA"
 					},
 					"placas": {
-						"musica": "A Thousand Years",
-						"artista": "Christiana Perri"
+						"musica": "Coisa Linda",
+						"artista": "Tiago Iorc",
+						"link": "https://www.youtube.com/watch?v=m3TkvC5LOrw"
 					},
 					"florista": "a mesma musica da noiva",
-					"segurança_alianca": {
-						"musica": "Instrumental missao impossivel"
+					"Segurança_aliancas": {
+						"Nome responsavel": "Francisco",
+						"musica": "Hallelujah [Saxofone Version]",
+						"artista": "Enzo Buonaurio Sax",
+						"link": "https://www.youtube.com/watch?v=X7WbdYlpKVo"
 					},
 					"aliancas": {
-						"musica": "Aleluia versao para casamento",
-						"artista": "Giseli Almeida"
+						"Nome responsavel": "Clarice",
+						"musica": "Hallelujah [Saxofone Version]",
+						"artista": "Enzo Buonaurio Sax",
+						"link": "https://www.youtube.com/watch?v=X7WbdYlpKVo"
 					}
 				}
 			]
@@ -50,8 +60,9 @@
 		{
 			"saidas": {
 				"saida_casal": {
-					"musica": "caneta e papel",
-					"cantor": "Os Arrais"
+					"musica": "Promises",
+					"cantor": "Maverick City & TRIBL",
+					"link": "https://www.youtube.com/watch?v=q5m09rqOoxE"
 				}
 			}
 		}
